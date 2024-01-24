@@ -108,6 +108,9 @@ const Homepage = (
           <Link href="/second-page">
             <button type="button">{t('to-second-page')}</button>
           </Link>
+          <Link href="/third-page">
+            <button type="button">{t('to-third-page')}</button>
+          </Link>
         </div>
       </main>
       <Footer />

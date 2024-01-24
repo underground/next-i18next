@@ -1,0 +1,26 @@
+{
+  "h1": "シンプルな例",
+  "change-locale": "ロケールを「{{changeTo}}」に変更",
+  "to-second-page": "2番目のページへ",
+  "to-third-page": "3番目のページへ",
+  "error-with-status": "サーバーで{{statusCode}}エラーが発生しました",
+  "error-without-status": "サーバーでエラーが発生しました",
+  "title": "ホーム | next-i18next",
+  "blog": {
+    "appDir": {
+      "question": "Next.js 13/14アプリディレクトリを使用していますか？",
+      "answer": "それなら、<1>このブログポスト</1>をチェックしてください。",
+      "link": "https://locize.com/blog/next-app-dir-i18n/"
+    },
+    "optimized": {
+      "question": "いくつかの超能力を解放して、すべてのサイド最適化された翻訳を得たいですか？",
+      "answer": "それなら、<1>このブログポスト</1>をご覧ください。",
+      "link": "https://locize.com/blog/next-i18next/"
+    },
+    "ssg": {
+      "question": "SSG（next export）を使用したいですか？",
+      "answer": "それなら、<1>このブログポスト</1>をご覧ください。",
+      "link": "https://locize.com/blog/next-i18n-static/"
+    }
+  }
+}

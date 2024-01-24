@@ -13,6 +13,7 @@ const nextConfig = {
   },
   i18n,
   reactStrictMode: true,
+  trailingSlash: true,
   typescript: {
     tsconfigPath,
   },
